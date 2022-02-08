@@ -1,0 +1,6 @@
+#file-upload  {
+    display: none;
+}
+.custom-control-input:checked ~ .custom-control-label::before {
+    color: #172b4d !important;
+} 
